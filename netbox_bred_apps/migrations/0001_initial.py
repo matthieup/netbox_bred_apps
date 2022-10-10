@@ -10,7 +10,7 @@ class Migration(migrations.Migration):
     initial = True
 
     dependencies = [
-        ('extras', '0077_customlink_extend_text_and_url'),
+    #    ('extras', '0077_customlink_extend_text_and_url'),
     ]
 
     operations = [
